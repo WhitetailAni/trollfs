@@ -8,10 +8,9 @@ usage:
 4. click "troll my filesystem"
 5. enjoy
 
-I am not responsible for any damage that occurs to your system, including but not limited to:
-1. panics
-2. bootloops
-3. bricks
+All changes are temporary and will be reverted on a reboot (tested on 6s on 15.0.2).
+
+If it gives you error 75 on trying to troll, close, wait a few seconds, reopen, click untroll and then troll
 
 Enjoy or something idk. I made this as a joke
-It doesn't work unless you're jailbroken. It might work on Dopamine, I have no way to test. It works on 15.4.1 palera1n
+It doesn't work unless you're jailbroken with palera1n. it does not work with dopamine (error 77).
